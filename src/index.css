@@ -11,3 +11,72 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.ComponentToPrint{
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.ComponentToPrint label {
+  text-align: left;
+  display: block;
+}
+.ComponentToPrint h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 30px;
+ 
+}
+.ComponentToPrint input, .ComponentToPrint select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.buttonPrint{
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: center;
+
+}
+.App-gambar{
+  width: 100%;
+
+}
+.App-text {
+  text-align: center;
+}
+.App-H {
+  text-align: center;
+  position: absolute;
+  font-family: 'WC Mano Negra Bta', arial;
+  margin-left: 35%;
+  margin-top: 32%;
+  font-size: 60px;
+}
+.App-judul2 {
+  font-family: 'Aileron Heavy';
+  font-size: 30px;
+  position: absolute;
+  margin-left: 38%;
+  margin-top: 25%;
+  font-size: 35px;
+
+}
+.App-judul3 {
+  font-family: 'Aileron Heavy';
+  font-size: 30px;
+  position: absolute;
+  margin-left: 49%;
+  margin-top: 25%;
+  font-size: 35px;
+}
+.App-div {
+
+}
